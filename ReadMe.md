@@ -1,7 +1,7 @@
 This is a MERN Stack to-do appliacation to run this locally follow these steps:
 
-First run:
-    `npm install`
+First run:<br>
+    `npm install`<br>
     then,
 
 1. Make sure the server is running<br>
