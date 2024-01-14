@@ -7,7 +7,7 @@ First run:<br>
 1. Make sure the server is running<br>
     a) Connect MongoDB <br>
     b) Go to the project folder and run<br>
-        `nodemon server`
+        `nodemon server`<br>
     now your server will be running on port 5000<br>
 
 2. Start Frontend<br>
